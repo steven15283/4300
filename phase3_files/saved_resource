@@ -1,0 +1,38 @@
+
+var ftGUID_4163809="4479D9D1D54FC0";
+var ftConfID_4163809="0";
+var ftParams_4163809="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=htmtopdf.herokuapp.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fhtmtopdf.herokuapp.com%2F&cachebuster=651730.1017717778";
+var ftKeyword_4163809="";
+var ftCustom_4163809="";
+var ftSection_4163809="";
+var ftSegment_4163809="w2b";
+var ftSegmentList_4163809=[{s:'w2b'}];
+var ftRuleMatch_4163809="0";
+var ftTimestamp_4163809="1619688178";
+var ftGeoC2_4163809="us";
+var ftGeoState_4163809="nj";
+var ftGeoCity_4163809="newark";
+var ftISP_4163809="verizon business";
+var ftSpeed_4163809="broadband";
+var ftDMA_4163809="501";
+var ftLong_4163809="-74.17";
+var ftLat_4163809="40.77";
+var ftPostal_4163809="07104";
+var ftTimeZone_4163809="-400";
+var ftMobileCarrier_4163809="";
+var ftImp4163809 = {};
+ftImp4163809.privacy = "x";
+ftImp4163809.guidAge = "388";
+ftImp4163809.impID = "18E0DBD2-F3D9-2F7E-06E2-4EB03C525321";
+ftImp4163809.duid = "FT:4479D9D1D54FC0";
+
+ftImp4163809.ft_tpplid = "";
+ftImp4163809.ft_c = {};
+ftImp4163809.gdpr = "";
+ftImp4163809.gdpr_consent = "";
+ftImp4163809.gdpr_pd = "";
+ftImp4163809.oob_consent = "0";
+ftImp4163809.gdprStoredConsent = "";
+ftImp4163809.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/416/4163809/3325652/js/j-4163809-3325652.js" id="ftscript_m4163809" name="ftscript_m4163809"></scr'+'ipt>');
